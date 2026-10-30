@@ -1,4 +1,4 @@
-# northstar-it-operations
+# error-logs
 This is for IT operations
 This is to be committed and confirmed
 
